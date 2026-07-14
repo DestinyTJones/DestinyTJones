@@ -1,16 +1,63 @@
-## Hi there 👋
+## Hi, I'm Destiny 👋
 
-<!--
-**DestinyTJones/DestinyTJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Student  
+🔐 Cybersecurity Concentration  
+🏥 Future M.S. in Healthcare Management & Informatics  
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an Information Technology student interested in cybersecurity, healthcare technology, and information systems. My career goal is to work in areas such as security analysis, healthcare IT, and information systems.
+
+## Interests
+
+- 🔒 Cybersecurity
+- 🏥 Healthcare IT
+- 📊 Data Analytics
+- ☁️ Cloud Computing
+- 🖥️ Information Systems
+
+## Certifications
+
+- ISC2 Certified in Cybersecurity (CC) — In Progress
+
+## Currently Learning
+
+- Windows Server
+- Active Directory
+- Networking
+- PowerShell
+- SQL
+- Python
+- Microsoft Azure
+- Security Operations (SOC)
+
+## Projects
+
+🔹 Cybersecurity Labs  
+🔹 SQL Database Projects  
+🔹 Python Automation Projects  
+🔹 Networking Labs  
+🔹 Healthcare IT Projects  
+
+## Skills
+
+### Programming
+- Python
+- Java
+- SQL
+
+### IT & Cybersecurity
+- Networking
+- Linux
+- Windows Administration
+- Wireshark
+- Security Fundamentals
+
+### Data & Analytics
+- SQL Databases
+- Data Analysis
+- Power BI
+
+## Connect With Me
+
+GitHub: https://github.com/DestinyTJones
