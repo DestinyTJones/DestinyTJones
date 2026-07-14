@@ -33,11 +33,7 @@ I am an Information Technology student interested in cybersecurity, healthcare t
 
 ## Projects
 
-🔹 Cybersecurity Labs  
-🔹 SQL Database Projects  
-🔹 Python Automation Projects  
-🔹 Networking Labs  
-🔹 Healthcare IT Projects  
+🔹 Coming Soon 
 
 ## Skills
 
