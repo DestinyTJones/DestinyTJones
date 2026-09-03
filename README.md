@@ -30,10 +30,15 @@ I am an Information Technology student interested in cybersecurity, healthcare t
 - Python
 - Microsoft Azure
 - Security Operations (SOC)
+- SAS
 
 ## Projects
-
-🔹 Coming Soon 
+- Basic-Website-Project
+- Responsive-Web-Design
+- 
+- 
+- 
+🔹 More Coming Soon 
 
 ## Skills
 
@@ -41,6 +46,7 @@ I am an Information Technology student interested in cybersecurity, healthcare t
 - Python
 - Java
 - SQL
+- SAS
 
 ### IT & Cybersecurity
 - Networking
