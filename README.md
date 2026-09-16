@@ -35,9 +35,11 @@ I am an Information Technology student interested in cybersecurity, healthcare t
 ## Projects
 - Basic-Website-Project
 - Responsive-Web-Design
-- SQL-Database-Population
-- SQL-Statements
-- SQL-Building-A-Minimal-Console-Application
+- SQL Database Development
+- SQL Query Development
+- SQL Database & Console Application
+- Cybersecurity Home Lab - In Progress
+
 🔹 More Coming Soon 
 
 ## Skills
