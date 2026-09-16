@@ -2,7 +2,7 @@
 
 🎓 Information Technology Student  
 🔐 Cybersecurity Concentration  
-🏥 Future M.S. in Healthcare Management & Informatics  
+🏥 M.S. in Healthcare Management & Informatics through Kennesaw Sate's Double Owl Program
 
 ## About Me
 
@@ -17,7 +17,7 @@ I am an Information Technology student interested in cybersecurity, healthcare t
 - 🖥️ Information Systems
 
 ## Certifications
-
+- Google Analytics Certification — 2026
 - ISC2 Certified in Cybersecurity (CC) — In Progress
 
 ## Currently Learning
@@ -35,12 +35,18 @@ I am an Information Technology student interested in cybersecurity, healthcare t
 ## Projects
 - Basic-Website-Project
 - Responsive-Web-Design
-- 
-- 
-- 
+- SQL-Database-Population
+- SQL-Statements
+- SQL-Building-A-Minimal-Console-Application
 🔹 More Coming Soon 
 
 ## Skills
+- Pogramming & Scripting: Python, Java
+- Operating Systems: Windows
+- Productivity Tools: Microsoft Office Suite, Google Workspace, SharePoint
+- Database & Data Management: Data Entry, SAS, Spreadsheet Modeling
+- Other Competencies: IT Support, Troubleshooting, Time Management,
+- Team Collaboration, Decision Making
 
 ### Programming
 - Python
